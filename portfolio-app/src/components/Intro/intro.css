@@ -1,0 +1,106 @@
+#intro {
+  height: calc(100vh - 4rem);
+  width: 100vw;
+  max-width: 75rem;
+  margin: 0 auto;
+  overflow: hidden;
+  position: relative;
+}
+
+.bg {
+  position: absolute;
+  /* top: -4rem; */
+  top: 4rem;
+  right: 0;
+  z-index: -1;
+  object-fit: cover;
+  /* height: 100vh; */
+  height: 70vh;
+  width: 100vh;
+  border-radius: 3rem;
+}
+
+.introContent {
+  height: 100vh;
+  width: 100vw;
+  /* padding: 2rem; */
+  padding: 0;
+  font-size: 3rem;
+  font-weight: 700;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.hello {
+  font-size: 1.75rem;
+  font-weight: 80;
+}
+
+.introName {
+  color: yellow;
+}
+
+.introJob {
+  color: yellow;
+}
+
+.introPara {
+  font-size: medium;
+  font-weight: 100;
+  letter-spacing: 1px;
+}
+
+.btn {
+  background: white;
+  margin: 1rem 0;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 2rem;
+}
+
+.btnImg {
+  object-fit: cover;
+  margin: 0 0.25rem;
+  height: 1rem;
+}
+/* 나중에 따로 맞추기 */
+@media screen and (max-width: 840px) {
+  .bg {
+    right: -10vw;
+  }
+  .introContent {
+    font-size: 10vw;
+  }
+  .hello {
+    color: black;
+    font-size: 4.5vw;
+  }
+
+  .introName {
+    color: brown;
+  }
+
+  .introPara {
+    color: black;
+  }
+
+  .introJob {
+    color: brown;
+  }
+
+  .introTextElse {
+    color: blue;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .bg {
+    right: -20vw;
+  }
+}
+/* @media screen and (max-width: 412px) {
+  .bg {
+    right: -20vw;
+  }
+} */

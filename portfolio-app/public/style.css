@@ -1,0 +1,41 @@
+@font-face {
+  font-family: 'Hangeuljaemin4-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2307-1@1.1/Hangeuljaemin4-Regular.woff2')
+    format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Ramche';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2307-1@1.1/Ramche.woff2')
+    format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GangwonState';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2307-2@1.0/GangwonState.woff2')
+    format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  background: transparent;
+  /* background: url('onlineimg.jpg'); */
+  /* 실행될때는 강원체, 이폰트가 오류가 생길시에는 sans-serif */
+  font-family: 'GangwonState', sans-serif;
+}
+
+body {
+  background: rgb(30, 30, 30);
+  color: white;
+  overflow: hidden;
+  overflow-y: scroll;
+}
