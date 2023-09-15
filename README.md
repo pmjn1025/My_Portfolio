@@ -1,74 +1,30 @@
+PROJECT 소개
+자신을 소개하고 결과물을 보여줄 수 있는 포트폴리오 웹페이지를 구현하였습니다.
 
-# Getting Started with Create React App
+노마드 코더님의 ReactJS로 영화 웹 서비스 만들기 강의 후 전체적으로 어떻게 ReactJS 구현되는 지를 단일 페이지를 정복-분할 방식으로 이해하고 싶어서
+고민 중 포트폴리오를 웹을 구축해보면 좋을것 같아서 같이 공부했습니다.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+노마드 코더님의 강의를 들으면서 ReactJS를 이해하는 데 큰 도움이 되었으며 특히 FE의 기초를 다질 수 있어서 너무 좋았습니다.
 
-## Available Scripts
+참고 : https://www.youtube.com/watch?v=4ag1LsgIUc0 
+ 
+🗓️ 작업기간 : 2023.09.01-2023.09.15
 
-In the project directory, you can run:
+🙋 참여인원 : 1명
 
-### `npm start`
+📘 주요업무 :
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+🌱 스킬 및 사용툴 : GIT VSCODE 
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">    
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+📚 **보완해야 할 점** :
+ReactJs를 이용하여 어떻게 FE를 구축하는지 전체적인 맥락을 잡았을 뿐 ReactJS에서 사용하는 routes 및 라이브러리에 대해서 좀 더 공부해야겠다는 생각을 했습니다.
+특히 CSS가 엄청 중요하다는 사실을 알게되었습니다. 따라서 CSS에 대한 지식도 같이 보완해야 된다고 생각합니다.
 
-### `npm test`
+Sago_Muncci's Portfolio : https://pmjn1025.github.io/My_Portfolio/
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-# My_Portfolio
-저의 포트폴리오입니다.
